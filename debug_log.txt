@@ -1,0 +1,110 @@
+Starting script
+Accessing: https://fbref.com/en/comps/9/2024-2025/2024-2025-Premier-League-Stats
+Found squad stats table
+Found 20 team URLs
+Visiting team: https://fbref.com/en/squads/18bb7c10/Arsenal-Stats
+Page title after load: Arsenal Stats, Premier League | FBref.com
+Attempt 1 - Error finding table with ID 'stats_standard': Message: 
+Stacktrace:
+	GetHandleVerifier [0x006CC7F3+24435]
+	(No symbol) [0x00652074]
+	(No symbol) [0x005206E3]
+	(No symbol) [0x00568B39]
+	(No symbol) [0x00568E8B]
+	(No symbol) [0x005B1AC2]
+	(No symbol) [0x0058D804]
+	(No symbol) [0x005AF20A]
+	(No symbol) [0x0058D5B6]
+	(No symbol) [0x0055C54F]
+	(No symbol) [0x0055D894]
+	GetHandleVerifier [0x009D70A3+3213347]
+	GetHandleVerifier [0x009EB0C9+3295305]
+	GetHandleVerifier [0x009E558C+3271948]
+	GetHandleVerifier [0x00767360+658144]
+	(No symbol) [0x0065B27D]
+	(No symbol) [0x00658208]
+	(No symbol) [0x006583A9]
+	(No symbol) [0x0064AAC0]
+	BaseThreadInitThunk [0x7621FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x76FD82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x76FD827E+238]
+
+Attempt 2 - Error finding table with ID 'stats_standard': Message: 
+Stacktrace:
+	GetHandleVerifier [0x006CC7F3+24435]
+	(No symbol) [0x00652074]
+	(No symbol) [0x005206E3]
+	(No symbol) [0x00568B39]
+	(No symbol) [0x00568E8B]
+	(No symbol) [0x005B1AC2]
+	(No symbol) [0x0058D804]
+	(No symbol) [0x005AF20A]
+	(No symbol) [0x0058D5B6]
+	(No symbol) [0x0055C54F]
+	(No symbol) [0x0055D894]
+	GetHandleVerifier [0x009D70A3+3213347]
+	GetHandleVerifier [0x009EB0C9+3295305]
+	GetHandleVerifier [0x009E558C+3271948]
+	GetHandleVerifier [0x00767360+658144]
+	(No symbol) [0x0065B27D]
+	(No symbol) [0x00658208]
+	(No symbol) [0x006583A9]
+	(No symbol) [0x0064AAC0]
+	BaseThreadInitThunk [0x7621FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x76FD82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x76FD827E+238]
+
+Attempt 3 - Error finding table with ID 'stats_standard': Message: 
+Stacktrace:
+	GetHandleVerifier [0x006CC7F3+24435]
+	(No symbol) [0x00652074]
+	(No symbol) [0x005206E3]
+	(No symbol) [0x00568B39]
+	(No symbol) [0x00568E8B]
+	(No symbol) [0x005B1AC2]
+	(No symbol) [0x0058D804]
+	(No symbol) [0x005AF20A]
+	(No symbol) [0x0058D5B6]
+	(No symbol) [0x0055C54F]
+	(No symbol) [0x0055D894]
+	GetHandleVerifier [0x009D70A3+3213347]
+	GetHandleVerifier [0x009EB0C9+3295305]
+	GetHandleVerifier [0x009E558C+3271948]
+	GetHandleVerifier [0x00767360+658144]
+	(No symbol) [0x0065B27D]
+	(No symbol) [0x00658208]
+	(No symbol) [0x006583A9]
+	(No symbol) [0x0064AAC0]
+	BaseThreadInitThunk [0x7621FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x76FD82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x76FD827E+238]
+
+Found 14 tables with class 'stats_table'
+First table ID: stats_standard_9
+First table HTML snippet: <table class="stats_table sortable min_width now_sortable sticky_table eq1 re1 le1" id="stats_standard_9" data-cols-to-freeze=",1"> <caption>Standard Stats <span style="color: #666; font-size:smaller">2024-2025 Arsenal: Premier League</span> Table</caption> <colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup> <thead> <tr class="over_header"> <th aria-label=""
+Page HTML snippet: <body class="fb" lang="en"><div id="hs-web-interactives-top-push-anchor" class="go3670563033"></div><div data-nosnippet="" class="osano-cm-window" dir="ltr"><!----> <!--?lit$909291986174$--><div hidden="" class="osano-visually-hidden"> <span id="osano-cm-aria.newWindow"><!--?lit$909291986174$-->Opens in a new window</span> <span id="osano-cm-aria.external"><!--?lit$909291986174$-->Opens an external website</span> <span id="osano-cm-aria.externalNewWindow"><!--?lit$909291986174$-->Opens an external website in a new window</span> </div> <!--?lit$909291986174$--> <div role="dialog" id="17729e7c-49fb-4834-a8de-f001e76d8c66" aria-label="Cookie Consent Banner" aria-describedby="17729e7c-49fb-4834-a8de-f001e76d8c66__label" class="osano-cm-window__dialog osano-cm-dialog osano-cm-dialog--position_bottom osano-cm-dialog--type_bar"> <!--?lit$909291986174$--> <button class=" osano-cm-dialog__close osano-cm-close "> <!--?lit$909291986174$--><svg width="20px" height="20px" viewBox="0 0 20 20" role="
+Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006CC7F3+24435]
+	(No symbol) [0x00652074]
+	(No symbol) [0x005206E3]
+	(No symbol) [0x00568B39]
+	(No symbol) [0x00568E8B]
+	(No symbol) [0x005B1AC2]
+	(No symbol) [0x0058D804]
+	(No symbol) [0x005AF20A]
+	(No symbol) [0x0058D5B6]
+	(No symbol) [0x0055C54F]
+	(No symbol) [0x0055D894]
+	GetHandleVerifier [0x009D70A3+3213347]
+	GetHandleVerifier [0x009EB0C9+3295305]
+	GetHandleVerifier [0x009E558C+3271948]
+	GetHandleVerifier [0x00767360+658144]
+	(No symbol) [0x0065B27D]
+	(No symbol) [0x00658208]
+	(No symbol) [0x006583A9]
+	(No symbol) [0x0064AAC0]
+	BaseThreadInitThunk [0x7621FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x76FD82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x76FD827E+238]
+
